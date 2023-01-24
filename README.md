@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center"> <h1> Peiyan Chen(陈培俨)</h1></div>
+- 😄 I have just completed a Bachelor of Computer Science at gmailg liversity of Adelaide.
+- 📫 How to reach me: [peiyan.chen1999@gmail.com](peiyan.chen1999@gmail.com)
 <!--
 **yyywkhd/yyywkhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 I have just completed a Bachelor of Computer Science at the University of Adelaide.
 - ⚡ Fun fact: ...
 -->
