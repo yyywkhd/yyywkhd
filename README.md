@@ -1,5 +1,5 @@
 
-<div align="center"> <h1> Peiyan Chen(陈培俨)</h1></div>
+<div align="center"> <h1> Peiyan Chen</h1></div>
 
 - 😄 I have just completed a Bachelor of Computer Science at The University of Adelaide.
 
