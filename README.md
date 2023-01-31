@@ -24,6 +24,9 @@
   ![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.11.0&color=FF0000&style=for-the-badge&logo=PyTorch)
   ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
   ![React](https://img.shields.io/static/v1?label=React&message=v18.0&color=137480&style=for-the-badge&logo=React) 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
 ## 👨‍💻 Tech  
 
@@ -34,8 +37,15 @@
 
 ## 📈 STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyywkhd&layout=compact)](https://github.com/yyywkhd/github-readme-stats)
+
+## :iphone: Others
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 <!--
 **yyywkhd/yyywkhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
