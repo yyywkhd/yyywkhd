@@ -7,6 +7,7 @@
 
 - 💬 Ask me about: Happy to inbox me and make friends.
 
+- 📃 Check my CV at 
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peiyan-chen-724746208/)
@@ -20,7 +21,7 @@
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=007ACC&style=for-the-badge&logo=JavaScript)
 
 
-## :sunny: Libraries || Frameworks
+## :sunny: Libraries | Frameworks
   ![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.11.0&color=FF0000&style=for-the-badge&logo=PyTorch)
   ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
   ![React](https://img.shields.io/static/v1?label=React&message=v18.0&color=137480&style=for-the-badge&logo=React) 
