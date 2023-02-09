@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: Happy to inbox me and make friends.
 
-- 📃 Check my CV at [Click Here](https://drive.google.com/file/d/17qluU_Fg_PYGH9kZU15ti8KqvBChFdHC/view?usp=share_link)
+- 📃 Check my CV at [Click Here](https://drive.google.com/file/d/14JdSSxeSmhmKebw9gIdGsTG-liH0Uphc/view?usp=share_linkv)
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peiyan-chen-724746208/)
