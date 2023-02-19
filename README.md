@@ -33,7 +33,6 @@
 
 ![PyCharm](https://img.shields.io/static/v1?label=PyCharm&message=2022.2&style=for-the-badge&color=6BFF33&logo=PyCharm)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=yyywkhd&style=for-the-badge&logo=github)
-
 ![VScode](https://img.shields.io/static/v1?label=VScode&message=v1.72&color=3374FF&style=for-the-badge&logo=Visual-Studio-Code) 
 
 ## 📈 STATS
